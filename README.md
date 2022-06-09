@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Raikir-i-sh
-- 👀 I’m interested in making/playing/modding games, AI, Calisthenics
+- 👋 Hi, I’m Rikrish Shrestha
+- 👀 I’m interested in modding/making/playing games, AI, Calisthenics
 - 🌱 I’m currently learning Unity, Calisthenics
 
 
