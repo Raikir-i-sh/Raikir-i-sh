@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rikrish Shrestha
 - 👀 I’m interested in modding/making/playing games, AI, Calisthenics
-- 🌱 I’m currently learning Unity, Calisthenics
+- 🌱 I’m currently learning Unity, Angular, Calisthenics
 
 
 <!---
